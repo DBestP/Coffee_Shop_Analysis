@@ -14,7 +14,7 @@ I want to determine the product performance and identify the key factors influen
 ![](Formular.png)
 
 2. Percentage Monthly Performance:
-3. ![](%_Monthly_Transaction.png)
+![](%_Monthly_Transaction.Png)
 
 -	Calculate the percentage change in transactions within the month in view. Identify the time of the day when the business thrives.
 3.	Product Performance:
