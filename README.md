@@ -11,9 +11,12 @@ I want to determine the product performance and identify the key factors influen
 ## Project Scope
 1. Transaction Pick Periods:
 - Investigate consumer behaviours during different times of the day: morning, afternoon, and evening. Analyse percentage transaction volume, and popular products during each period.
-  
-2.	Percentage Monthly Performance:
-•	Calculate the percentage change in transactions within the month in view. Identify the time of the day when the business thrives.
+- =IF(AND(C10>=TIME(7,0,0), C10<TIME(12,0,0)), "Morning", IF(AND(C10>=TIME(12,0,0), C10<TIME(16,0,0)), "Afternoon", "Evening"))
+
+2. Percentage Monthly Performance:
+ 
+
+-	Calculate the percentage change in transactions within the month in view. Identify the time of the day when the business thrives.
 3.	Product Performance:
 •	Top 5 Products: Determine the best-selling products based on transaction count. Understand why these products perform well.
 •	Least 6 Products: Examine the least popular products. Identify potential reasons for their lower performance.
