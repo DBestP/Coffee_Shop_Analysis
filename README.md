@@ -1,9 +1,6 @@
 # Coffee Shop Analysis
 
-
-![](Coffee_Shop.png)
-
-
+![](Coffee.png)
 
 ## Tools Used: Microsoft Excel
 
@@ -19,23 +16,33 @@ I want to determine the product performance and identify the key factors influen
 ![](Formular.png)
 
 2. Percentage Monthly Performance:
- ![](Monthly_Transaction.png)
+
+
+![](Monthly.png)
 
 -	Calculate the percentage change in transactions within the month in view. Identify the time of the day when the business thrives.
 3.	Product Performance:
+
+
 ![](Top_5.png)
+
+
 ![](Least_6.png)
 
 -	Top 5 Products: Determine the best-selling products based on transaction count. Understand why these products perform well.
 -	Least 6 Products: Examine the least popular products. Identify potential reasons for their lower performance.
 
 4.	Store Location Performance:
+
+
 ![](Location.png)
 
 -	Compare the performance of different store locations. Assess metrics such as total quantity sold. Identify high-performing and underperforming stores.
 
 
-6.	Product Unit Price Analysis:
+5.	Product Unit Price Analysis:
+
+   
 ![](Unit_Price.png)
 
 -	Investigate the relationship between product unit prices and sales. Determine if higher or lower prices impact transaction volume. Consider if rice adjustment can make a difference.
