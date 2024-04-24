@@ -1,24 +1,7 @@
 # Coffee Shop Analysis
 
 
-
-
-
-
-
-
-
-
-
-![](coffee_shop.png)
-
-
-
-
-
-
-
-
+![](124.png)
 
 
 
