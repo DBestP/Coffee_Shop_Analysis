@@ -1,6 +1,14 @@
 # Coffee Shop Analysis
 
+
+
+
+
 ![](Coffee.png)
+
+
+
+
 
 ## Tools Used: Microsoft Excel
 
@@ -14,6 +22,9 @@ I want to determine the product performance and identify the key factors influen
 1. Transaction Pick Periods:
 - Investigate consumer behaviours during different times of the day: morning, afternoon, and evening. Analyse percentage transaction volume, and popular products during each period.
 ![](Formular.png)
+
+![](Pick_Period.png)
+
 
 2. Percentage Monthly Performance:
 
